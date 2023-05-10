@@ -1,17 +1,6 @@
 v: 0
-icon: ./icon.png
 micros:
   - name: python-app
-    src: ./src/python
+    src: ./
     engine: python3.9
     primary: true
-
-  - name: custom-app
-    src: ./src/custom
-    engine: custom
-    commands:
-      - go get
-      - go build main.go
-    run: ./main
-    include:
-      - main
