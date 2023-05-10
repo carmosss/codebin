@@ -2,6 +2,7 @@
 name: deploy to deta space
 
 on: 
+  workflow_dispatch:
   push:
     branches:
     - main
