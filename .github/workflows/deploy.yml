@@ -19,7 +19,7 @@ jobs:
       uses: lizheming/deta-action@master
       with:
         access_token: "8hiYPqUh_Qj12qzha7uweys8RN7rVMUU3UqpKUX2o"
-        id: "webcrate-1-h2582250"
+        id: "h2582250"
         version: "1.0.0"
         notes: "Release automatically with GitHub deta action"
         listed: false
