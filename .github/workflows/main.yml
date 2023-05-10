@@ -10,6 +10,6 @@ jobs:
         uses: neobrains/space-deployment-github-action@v0.5
         with:
           access_token: BPXZHaKd_UBni2i5Wzm2SMwmEpekKSbD18zKD9epc
-          project_id: https://terminal-1-i7727341.deta.app/
+          project_id: terminal-1-i7727341
           space_push: true
           list_on_discovery: true
